@@ -1,6 +1,6 @@
 ---
 
-### 4. Arquivo: `.github/ISSUE_TEMPLATE/2_feature_request.md`
+### 4. Arquivo: `.github/Problemas/2_feature_request.md`
 
 ```yaml
 ---
