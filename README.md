@@ -49,20 +49,6 @@ Uma coleção das principais bibliotecas e ecossistemas utilizados nos projetos:
 
 Aqui estão alguns dos projetos desenvolvidos que você pode explorar:
 
-### 1. 📈 Previsão de Churn de Clientes (Machine Learning)
-* **Descrição:** Modelo preditivo para identificar clientes com alta probabilidade de cancelar um serviço financeiro.
-* **Algoritmo:** XGBoost com tunagem de hiperparâmetros (GridSearchCV).
-* **Pasta do Projeto:** `/projetos/churn-prediction`
-
-### 2. 👁️ Classificação de Imagens Médicas (Deep Learning)
-* **Descrição:** Rede Neural Convolucional (CNN) treinada para detectar patologias em exames de raio-X.
-* **Algoritmo:** PyTorch (Transfer Learning com ResNet50).
-* **Pasta do Projeto:** `/projetos/medical-imaging`
-
-### 3. 💬 Chatbot Inteligente com RAG (GenAI / NLP)
-* **Descrição:** Um assistente virtual que consulta documentos PDF internos para responder a perguntas específicas de negócios usando IA generativa.
-* **Algoritmo:** LangChain + OpenAI API + ChromaDB (Vector Store).
-* **Pasta do Projeto:** `/projetos/rag-chatbot`
 
 ---
 
