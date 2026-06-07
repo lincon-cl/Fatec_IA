@@ -1,8 +1,8 @@
 # 🤖 Inteligência Artificial: Aprendizado de Máquina & Deep Learning
 
-[![licença](https://img.shields.io/badge/Licença-passing-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA/blob/main/Licença/licença.md)
-[![Problemas](https://img.shields.io/badge/Problemas-Relatos-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA/blob/main/Problemas/2_feature_request.md)
-[![GuitHub](https://img.shields.io/badge/GuitHub-Repositorio-brightgreen?logo=github&style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA)
+[![licença](https://img.shields.io/badge/Licença-passing-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA/blob/main/Licença/licença.md)
+[![Problemas](https://img.shields.io/badge/Problemas-Relatos-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA/blob/main/Problemas/2_feature_request.md)
+[![GuitHub](https://img.shields.io/badge/GuitHub-Repositorio-brightgreen?logo=github&style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA)
 
 
 Bem-vindo ao repositório central de estudos, experimentos e projetos práticos voltados para **Inteligência Artificial (IA)**. Este espaço foi criado para documentar a minha evolução na área, cobrindo desde a análise estatística de dados até o desenvolvimento de redes neurais profundas e modelos de IA Generativa.
