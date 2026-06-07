@@ -1,7 +1,7 @@
 # 🤖 Inteligência Artificial: Aprendizado de Máquina & Deep Learning
 
-[![Licença](https://img.shields.io/github/license/lincon-cl/Fatec-IA?style=for-the-badge)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/lincon-cl/Fatec-IA?style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA/issues)
+[![Licença](https://img.shields.io/github/licença/lincon-cl/Fatec-IA?style=for-the-badge)](LICENSE)
+[![Problemas](https://img.shields.io/github/Problemas/lincon-cl/Fatec-IA?style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA/problemas)
 [![Stars](https://img.shields.io/github/stars/lincon-cl/Fatec-IA?style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA/stargazers)
 
 Bem-vindo ao repositório central de estudos, experimentos e projetos práticos voltados para **Inteligência Artificial (IA)**. Este espaço foi criado para documentar a minha evolução na área, cobrindo desde a análise estatística de dados até o desenvolvimento de redes neurais profundas e modelos de IA Generativa.
