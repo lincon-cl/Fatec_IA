@@ -1,8 +1,8 @@
 # 🤖 Inteligência Artificial: Aprendizado de Máquina & Deep Learning
 
-[![Licença](https://img.shields.io/github/license/seu-usuario/nome-do-repositorio?style=for-the-badge)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/seu-usuario/nome-do-repositorio?style=for-the-badge)](https://github.com/seu-usuario/nome-do-repositorio/issues)
-[![Stars](https://img.shields.io/github/stars/seu-usuario/nome-do-repositorio?style=for-the-badge)](https://github.com/seu-usuario/nome-do-repositorio/stargazers)
+[![Licença](https://img.shields.io/github/license/lincon-cl/Fatec-IA?style=for-the-badge)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/lincon-cl/Fatec-IA?style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA/issues)
+[![Stars](https://img.shields.io/github/stars/lincon-cl/Fatec-IA?style=for-the-badge)](https://github.com/lincon-cl/Fatec-IA/stargazers)
 
 Bem-vindo ao repositório central de estudos, experimentos e projetos práticos voltados para **Inteligência Artificial (IA)**. Este espaço foi criado para documentar a minha evolução na área, cobrindo desde a análise estatística de dados até o desenvolvimento de redes neurais profundas e modelos de IA Generativa.
 
