@@ -1,7 +1,8 @@
 # 🤖 Inteligência Artificial: Aprendizado de Máquina & Deep Learning
 
-[![licença](https://img.shields.io/badge/Licença-passing-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA/blob/main/Licença/licença.md)
-[![Problemas](https://img.shields.io/badge/Problemas-Relatos-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA/blob/main/Problemas/2_feature_request.md)
+[![licença](https://img.shields.io/badge/Licença-Usabilidade-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA/blob/main/Licença/licença.md)
+[![Problemas](https://img.shields.io/badge/Problemas-Relatos-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA/blob/main/Problemas/1_bug_report.md)
+[![Solicitação](https://img.shields.io/badge/Sugestão-Melhorias-brightgreen?style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA/blob/main/Problemas/2_feature_request.md)
 [![GuitHub](https://img.shields.io/badge/GuitHub-Repositorio-brightgreen?logo=github&style=for-the-badge)](https://github.com/lincon-cl/Fatec_IA)
 
 
