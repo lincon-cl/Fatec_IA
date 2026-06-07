@@ -1,15 +1,13 @@
 ---
-
-### 4. Arquivo: `.github/Problemas/2_feature_request.md`
-
-```yaml
+name: "🐛 Relato de Bug"
+about: "Reportar erros em algoritmos ou laboratórios de IA."
+title: "[BUG] "
+labels: ["bug"]
+assignees: ""
 ---
-name: 💡 Sugestão de Melhoria ou Nova Feature
-about: Propor otimizações de algoritmos, novas abordagens estatísticas ou novas implementações para a Fatec-IA.
-title: '[FEATURE] '
-labels: enhancement
-assignees: ''
----
+
+**Descrição do Erro**
+Descreva brevemente o erro que ocorreu.
 
 **Qual problema/limitação você identificou?**
 Uma descrição clara do que pode ser melhorado (ex: "O script de análise de dados atual processa arquivos CSV de forma sequencial e lenta").
