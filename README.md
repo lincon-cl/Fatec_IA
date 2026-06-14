@@ -15,10 +15,8 @@ Bem-vindo ao repositório central de estudos, experimentos e projetos práticos 
 - [Visão Geral do Repositório](#-visão-geral-do-repositório)
 - [Tecnologias e Ferramentas](#%EF%B8%8F-tecnologias-e-ferramentas)
 - [Projetos em Destaque](#-projetos-em-destaque)
-- [Como Executar os Projetos](#-como-executar-os-projetos)
-- [Trilha de Estudos & Roadmap](#-trilha-de-estudos--roadmap)
-- [Como Contribuir](#-como-contribuir)
-- [Licença](#-licença)
+- [Busca Gulosa Em IA](https://github.com/lincon-cl/Fatec_IA/tree/Mapa_da_Romenia_B.Gulosa)
+- [Busca A Estrala Em IA](https://github.com/lincon-cl/Fatec_IA/tree/Mapa_da_Romenia_B.Estrela)
 
 ---
 
